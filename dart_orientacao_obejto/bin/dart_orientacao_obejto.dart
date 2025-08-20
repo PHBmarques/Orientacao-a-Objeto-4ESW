@@ -41,6 +41,7 @@ void main(){
     );
   print(ichigo.log());
 
+  ///Grinjou
   HollowsBleachCharacter grinjou=HollowsBleachCharacter(
     name: 'Grinjou', 
     universe: 'Bleach', 
